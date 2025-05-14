@@ -7,6 +7,13 @@ Additional information (IPA pronunciation, local name, languages etc) can also b
 The deck currently features every countries (fully recognized or not) as well as most of the first-level subdivisions for Europe and America, and several other on the other continents. My goal is to ultimately add every country, it's still in progress.
 
 
+## How to Download
+
+1) Download the files from the repo*
+2) Go to Anki. Click file > import, then selec .apkg
+3) Copy/paste the content of the media folder in Anki's collection.media folder (On windows, should be C:\Users\Username\AppData\Roaming\Anki2\User 1\collection.media)
+4) Go back to Anki. Click tools > check media. You're done.
+
 ## How to use
 
 -	There is a tag for each type of territory, allowing to learn only specific countries if needed. For instance, you can filter with "geosiwk::Canada", if you only want the canadian provinces.
