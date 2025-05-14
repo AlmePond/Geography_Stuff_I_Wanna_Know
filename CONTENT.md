@@ -1,0 +1,56 @@
+The deck features the following territories : 
+
+- Countries
+- Consituent countries
+- Dependecies
+- Autonomous regions
+- Partially recognized states
+
+and the first-level subdivisions for : 
+
+- Albania
+- Algeria
+- Argentina
+- Australia
+- Austria
+- Belgium
+- Bolivia
+- Brazil
+- Canada
+- Chile
+- Colombia
+- Croatia
+- Czechia
+- Denmark
+- Ecuador
+- Egypt
+- England
+- Estonia
+- Finland
+- France
+- Germany
+- Greece
+- Hungary
+- India
+- Ireland
+- Italy
+- Japan
+- Lithuania
+- Malaysia
+- Mexico
+- Moldova
+- Netherlands
+- Norway
+- Peru
+- Poland
+- Romania
+- Russia
+- Slovakia
+- South Korea
+- Spain
+- Sweden
+- Switzerland
+- Ukraine
+- Uruguay
+- USA
+- Venezuela
