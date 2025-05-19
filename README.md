@@ -1,6 +1,6 @@
 ## Content
 
-This deck features more than 6,000 geography notes, including countries, autonomous regions, subdivisions and more. 
+This deck features more than 6,000 geography cards, including countries, autonomous regions, subdivisions and more. 
 Each note contains several cards, allowing you to learn information about each place : Flag, Coat of arms, Map, Capital and Main City (if different).
 Additional information (IPA pronunciation, local name, languages etc) can also be found, and are summed up in the "show more" button on  the back of the cards.
 
