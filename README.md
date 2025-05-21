@@ -1,6 +1,6 @@
 ## Content
 
-This deck features more than 6,000 geography notes, including countries, autonomous regions, subdivisions and more. 
+This deck features more than 6,000 geography cards, including countries, autonomous regions, subdivisions and more. 
 Each note contains several cards, allowing you to learn information about each place : Flag, Coat of arms, Map, Capital and Main City (if different).
 Additional information (IPA pronunciation, local name, languages etc) can also be found, and are summed up in the "show more" button on  the back of the cards.
 
@@ -9,8 +9,8 @@ The deck currently features every countries (fully recognized or not) as well as
 
 ## How to Download
 
-1) Download the files from the repo*
-2) Go to Anki. Click file > import, then selec .apkg
+1) Download the files from the repo
+2) Go to Anki. Click file > import, then select the .apkg
 3) Copy/paste the content of the media folder in Anki's collection.media folder (On windows, should be C:\Users\Username\AppData\Roaming\Anki2\User 1\collection.media)
 4) Go back to Anki. Click tools > check media. You're done.
 
@@ -37,7 +37,7 @@ I'm working on replacing them, but some maps are made using mapchart.net, also u
 
 ## Contact
 
-The deck is still a work in progress, and I'm always fixing and adding things. However, if you spot a mistake or want to contact me for any reason, use the ankiweb comments, DM me on Discord. I'll also add Github support at some point. 
+The deck is still a work in progress, and I'm always fixing and adding things. However, if you spot a mistake or want to contact me for any reason, use the ankiweb comments, or the github support page.
 
 
 
