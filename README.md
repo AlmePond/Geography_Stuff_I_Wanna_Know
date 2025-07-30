@@ -24,7 +24,10 @@ The deck currently features every countries (fully recognized or not) as well as
 
 -	Every name is written in its local language, and  the "traduction" button on the front of the cards allows to see the english name. If this bothers you, simply switch the "placeEng" and "placeOri" fields on the cards (same thing for capitals and main cities).
 
+-	As some very similar subdivions flags exist through different countries, I added a "help" button on flag cards, that display to which country this specific subdivisions belongs.
+
 -	Many territories display several flags and coats of arms, because the deck includes variations (ie civil flags, state flags, naval ensigns etc). The flag located in the "flag1" field is always the mainly used one, so you can suspend the other cards if you feel like you don't need them.
+  
 
 
 
